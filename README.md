@@ -37,7 +37,7 @@ The FunOlympics Dashboard is an interactive web application designed to visualiz
 - **Hardware**: 
   - HP ProBook, 8 GB RAM, 120 MB storage, Intel i5 processor, Solid State Drive
 - **Software**: 
-  - Anaconda Navigator, Visual Studio Code, Python
+  - Visual Studio Code, Python
 - **Operating System**: 
   - Windows 10
 
